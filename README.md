@@ -1,4 +1,4 @@
-# VoskWebsocket
+# Vosk Websocket Example
 This is Vosk Speech to text using Docker and Websockets for Nodejs
 ## Usage
 <p> Requires a vosk docker container in order to this example
@@ -7,4 +7,4 @@ This is Vosk Speech to text using Docker and Websockets for Nodejs
 <p> Start on port 2700 or alter example to match your following port
  
 ### For non docker usage example refer to:
-<p> Link to Gitub - Working...
+<p> https://github.com/alphacep/vosk-api/blob/master/nodejs/demo/test_simple.js
